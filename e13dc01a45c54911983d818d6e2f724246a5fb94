@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2c85107e_ef6e0854",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2025-05-20T12:38:15Z",
+      "side": 1,
+      "message": "Tagged as 6.7.22-2",
+      "revId": "e13dc01a45c54911983d818d6e2f724246a5fb94",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
